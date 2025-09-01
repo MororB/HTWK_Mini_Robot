@@ -44,7 +44,7 @@ Er ermöglicht Studierenden praxisnahes Lernen in den Bereichen **Robotik, Echtz
 - **Energieversorgung**  
   - 18650-Li-Ion-Akku mit Lade- und Schutzmodul  
   - Konstant 5V-Ausgang für alle Module  
-- **Chassis**  
+- **Chassis**
   - Modularer 3D-Druck, minimalistisch, anpassbar  
   - Einfache Wartung, Teile leicht austauschbar  
 ---
@@ -65,7 +65,12 @@ Die STL-Dateien sind im Ordner [`STL_Dateien`](./STL_Dateien) zu finden.
 - **2×** [Bumper Deckel](./STL_Dateien/Bumper_deckel.stl)  
 - **1×** [Bumper Gehäuse Links](./STL_Dateien/Bumper_Körper_Links.stl)  
 - **1×** [Bumper Gehäuse Rechts](./STL_Dateien/Bumper_Körper_Rechts.stl)  
-- **1×** [Bumper](./STL_Dateien/Bumper.stl)  
+- **1×** [Bumper](./STL_Dateien/Bumper.stl)
+
+### Zusätzliche Teile
+- **12x M3x20 Schrauben**
+- **14x M3x10 Schrauben**
+- **8x M3 Muttern**  
 
 ---
 
