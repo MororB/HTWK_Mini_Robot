@@ -48,21 +48,30 @@ Er ermöglicht Studierenden praxisnahes Lernen in den Bereichen **Robotik, Echtz
   - Modularer 3D-Druck, minimalistisch, anpassbar  
   - Einfache Wartung, Teile leicht austauschbar  
 ---
-## 📂 3D Druck-Teile
-- **1x** [Hauptplatte]()
-- **4x** [Lagerung Ober]()
-- **4x** [Lagerung Unten]()
-- **2x** [Welle]()
-- **2x** [Motor Clip]()
-- **1x** [Lademodul und Stecker Gehäuse]()
-- **1x** [Murmel]()
-- **1x** [Murmel Halter]()
-- **2x** [Reifen]()
-- **2x** [Rad]()
-- **2x** [Bumper Deckel]()
-- **1x** [Bumper Gehäuse Links]()
-- **1x** [Bumper Gehäuse Rechts]()
-- **1x** [Bumper]()
+## 🛠️ 3D-gedruckte Teile  
+Die folgenden Bauteile müssen für den Roboter gedruckt werden.  
+Die STL-Dateien sind im Ordner [`STL_Dateien`](./STL_Dateien) zu finden.  
+
+- **1×** [Hauptplatte](./STL_Dateien/Hauptplatte.stl)  
+- **4×** [Lagerung Oben](./STL_Dateien/Lagerung_Oben.stl)  
+- **4×** [Lagerung Unten](./STL_Dateien/Lagerung_Unten.stl)  
+- **2×** [Welle](./STL_Dateien/Welle%20v9.stl)  
+- **2×** [Motor Clip](./STL_Dateien/Motor_Clip%20v4.stl)  
+- **1×** [Lademodul + Schalter Gehäuse](./STL_Dateien/Lademodul+Schalter%20gehäuse%20v5.stl)  
+- **1×** [Murmel](./STL_Dateien/Murmel.stl)  
+- **1×** [Murmel Halter](./STL_Dateien/Murmelhalter.stl)  
+- **2×** [Reifen](./STL_Dateien/Reifen.stl)  
+- **2×** [Rad](./STL_Dateien/Rad.stl)  
+- **2×** [Bumper Deckel](./STL_Dateien/Bumper_deckel.stl)  
+- **1×** [Bumper Gehäuse Links](./STL_Dateien/Bumper_Körper_Links.stl)  
+- **1×** [Bumper Gehäuse Rechts](./STL_Dateien/Bumper_Körper_Rechts.stl)  
+- **1×** [Bumper](https://github.com/MororB/HTWK_Mini_Robot/blob/main/STL_Dateien/Bumper.stl)  
+
+---
+
+💡 Hinweis: GitHub erlaubt die **3D-Vorschau von STL-Dateien**.  
+Einfach auf den Link klicken und das Modell direkt im Browser drehen und zoomen.
+
 
 ---
 
