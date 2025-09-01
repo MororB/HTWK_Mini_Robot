@@ -65,7 +65,7 @@ Die STL-Dateien sind im Ordner [`STL_Dateien`](./STL_Dateien) zu finden.
 - **2×** [Bumper Deckel](./STL_Dateien/Bumper_deckel.stl)  
 - **1×** [Bumper Gehäuse Links](./STL_Dateien/Bumper_Körper_Links.stl)  
 - **1×** [Bumper Gehäuse Rechts](./STL_Dateien/Bumper_Körper_Rechts.stl)  
-- **1×** [Bumper](https://github.com/MororB/HTWK_Mini_Robot/blob/main/STL_Dateien/Bumper.stl)  
+- **1×** [Bumper](./STL_Dateien/Bumper.stl)  
 
 ---
 
