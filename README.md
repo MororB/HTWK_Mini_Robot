@@ -69,12 +69,6 @@ Die STL-Dateien sind im Ordner [`STL_Dateien`](./STL_Dateien) zu finden.
 
 ---
 
-💡 Hinweis: GitHub erlaubt die **3D-Vorschau von STL-Dateien**.  
-Einfach auf den Link klicken und das Modell direkt im Browser drehen und zoomen.
-
-
----
-
 ## 🖥️ Software & Steuerung  
 - **Micro-ROS** auf ESP32 zur direkten Einbindung in **ROS 2**  
 - **Dezentrale Motorsteuerung** über ATtiny-Controller per UART  
