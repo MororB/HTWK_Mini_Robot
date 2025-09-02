@@ -3,7 +3,7 @@
 Dieser kleine mobile Roboter wurde als **offene Lehrplattform** für Hochschulen entwickelt.  
 Er ermöglicht Studierenden praxisnahes Lernen in den Bereichen **Robotik, Echtzeitsysteme und Industrie 4.0**, ohne hohe Kosten oder sicherheitskritische Einschränkungen.  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ba99f74-1f75-402f-9623-048474f4d45d" alt="Mini Roboter" width="400">
+  <img src="./Images_MiniRobot/GesamterBot.png" alt="Mini Roboter" width="400">
 </p>
 
 
