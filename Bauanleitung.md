@@ -57,11 +57,11 @@ Dabei darauf achten, dass das **breitere Lagerteil („Lager Oben“) oben** ist
 ➡️ Die Räder können bei Bedarf zusätzlich mit Schrauben an den Achsen fixiert werden.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/68f9bbfe-5938-49ea-96da-b4587775711e" alt="Motor Seite 2" width="30%">
+  <img src="./Images_MiniRobot/Antrieb_Seite_2.jpg" alt="Motor Seite 2" width="30%">
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/445e2792-e037-47ce-9f25-910de99c33df" alt="Motor Mitte" width="30%">
+  <img src="./Images_MiniRobot/Antrieb.png" alt="Motor Mitte" width="30%">
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/bd654ca0-af60-4fa5-923e-3aed4f80995b" alt="Motor Seite 1" width="30%">
+  <img src="./Images_MiniRobot/Antrieb_Seite_1.jpg" alt="Motor Seite 1" width="30%">
 </p>
 
 ---
@@ -74,7 +74,7 @@ Anschließend den Murmelhalter auf die Schraube aufschrauben.
 
 ➡️ Jetzt sollte der Roboter bereits eigenständig stehen können.  
 
-<img src="https://github.com/user-attachments/assets/5ea9a7ff-6d44-435d-ac02-c4adadd0cdc8" alt="Murmelhalter Montage" width="70%">
+<img src="./Images_MiniRobot/Bumper_Vorne.jpg" alt="Murmelhalter Montage" width="50%">
 
 ---
 
@@ -84,9 +84,9 @@ Nun werden die **Taster** in die Bumper-Gehäuse eingesetzt und mit **4× M3×20
 Die Bumper werden links und rechts montiert (von vorne betrachtet).  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2234b3d-895b-4b3e-ba24-c48960e6c3f1" alt="Bumper links" width="50%">
+  <img src="./Images_MiniRobot/Bumper.png" alt="Bumper" width="50%">
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/a0a586c3-9e55-4049-9780-7e5660110296" alt="Bumper rechts" width="45%">
+  <img src="./Images_MiniRobot/Bumper_Unten.jpg" alt="Bumper rechts" width="45%">
 </p>
 
 ---
@@ -99,9 +99,9 @@ Befestigen Sie die Platine mit **M4×10-Schrauben** auf der Hauptplatte.
 Danach können die **Motorstecker** in die jeweiligen **Treiberplatinen** eingesteckt werden.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/515e6ad3-5cdf-4e4f-b04a-f76127399a2c" alt="Bestückte Platine" width="48%">
+  <img src="./Images_MiniRobot/Platine_ab.png" alt="Bestückte Platine" width="48%">
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/29e0cf8f-b4c9-4097-9e31-3c71208ff1d3" alt="Platine auf Hauptplatte montiert" width="48%">
+  <img src="./Images_MiniRobot/Paltine_drauf.png" alt="Platine auf Hauptplatte montiert" width="48%">
 </p>
 
 ---
@@ -119,7 +119,7 @@ Zum Abschluss den **GND-Kontakt** des Lademoduls sowie die **5V-Leitung nach dem
 Danach den **Batteriehalter** und das **Lademodul-Gehäuse** mit der Hauptplatte verschrauben.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc69bb8c-d1ad-4f9b-affb-361144eefddb" alt="Akku und Lademodul Verdrahtung" width="45%">
+  <img src="./Images_MiniRobot/Lademodul.jpg" alt="Akku und Lademodul Verdrahtung" width="45%">
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/a25bbfb9-b065-4e0d-8fa9-bab77d8be583" alt="Akku und Schalter im Gehäuse" width="45%">
+  <img src="./Images_MiniRobot/Akku_Lademodul.jpg" alt="Akku und Schalter im Gehäuse" width="45%">
 </p>
